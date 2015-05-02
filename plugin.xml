@@ -3,15 +3,15 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="de.appplant.cordova.common.registerusernotificationsettings"
-        version="1.0.0">
+        version="1.0.1">
 
-    <name>LocalNotification</name>
+    <name>RegisterUserNotificationSettings</name>
 
     <description>Implements didRegisterUserNotificationSettings and broadcasts the event.</description>
 
-    <repo>https://github.com/katzer/cordova-common-RegisterUserNotificationSettings</repo>
+    <repo>https://github.com/katzer/cordova-common-registerusernotificationsettings</repo>
 
-    <keywords>appplant, notification, local notification</keywords>
+    <keywords>appplant, didRegisterUserNotificationSettings</keywords>
 
     <license>Apache 2.0</license>
 
