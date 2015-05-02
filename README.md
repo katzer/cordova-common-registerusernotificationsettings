@@ -1,0 +1,2 @@
+# cordova-common-UIApplicationRegisterUserNotificationSettings
+Implements didRegisterUserNotificationSettings and broadcasts the event
