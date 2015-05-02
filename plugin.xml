@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="de.appplant.cordova.common.RegisterUserNotificationSettings"
+        id="de.appplant.cordova.common.registerusernotificationsettings"
         version="1.0.0">
 
     <name>LocalNotification</name>
