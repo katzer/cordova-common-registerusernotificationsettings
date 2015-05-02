@@ -24,8 +24,8 @@
 
     <!-- ios -->
     <platform name="ios">
-        <header-file src="src/ios/AppDelegate+APPLocalNotification.h" />
-        <source-file src="src/ios/AppDelegate+APPLocalNotification.m" />
+        <header-file src="src/ios/AppDelegate+APPRegisterUserNotificationSettings.h" />
+        <source-file src="src/ios/AppDelegate+APPRegisterUserNotificationSettings.m" />
     </platform>
 
 </plugin>
