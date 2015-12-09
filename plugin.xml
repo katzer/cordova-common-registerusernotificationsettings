@@ -11,7 +11,7 @@
 
     <repo>https://github.com/katzer/cordova-common-registerusernotificationsettings</repo>
 
-    <keywords>appplant, didRegisterUserNotificationSettings</keywords>
+    <keywords>appplant</keywords>
 
     <license>Apache 2.0</license>
 
