@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-registerusernotificationsettings",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Implements didRegisterUserNotificationSettings and broadcasts the event.",
   "cordova": {
     "id": "cordova-plugin-registerusernotificationsettings",
